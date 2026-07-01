@@ -1,10 +1,8 @@
 public class Frequencia {
     private int faltasAluno;
-    private boolean mensalidadeDia;
 
-    public Frequencia(int faltasAluno, boolean mensalidadeDia){
+    public Frequencia(int faltasAluno){
         this.faltasAluno = faltasAluno;
-        this.mensalidadeDia = mensalidadeDia;
     }
 
     
